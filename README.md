@@ -1,6 +1,6 @@
 # Scrimba Javascriptmas 2022
 
-[Scrimba](https://scrimba.com/learn/javascriptmas/-welcome-to-javascriptmas-2022-cv2BLQT8)
+[Scrimba](https://v1.scrimba.com/playlist/p67LBHv)
 
 ## Useful Resources
 
