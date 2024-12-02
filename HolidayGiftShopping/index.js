@@ -24,5 +24,4 @@ function sortProducts(data){
     }
 }
 
-const listByCheapest = sortProducts(products);
-console.log(listByCheapest);
+sortProducts(products);
